@@ -2,7 +2,7 @@
 # $FreeBSD: head/graphics/vips/Makefile 522079 2020-01-05 02:17:32Z mandree $
 
 PORTNAME=	vips
-PORTVERSION=	8.9.1
+PORTVERSION=	8.9.0
 PORTREVISION=	0
 CATEGORIES=	graphics
 MASTER_SITES=	https://github.com/libvips/libvips/releases/download/v${PORTVERSION}/
